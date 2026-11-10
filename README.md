@@ -15,7 +15,6 @@ I'm a fourth-year Computer Science student at **ADA University** (graduating May
 
 - 🔭 Recently worked as an **AI & ML Engineer Intern at PashaPay**, benchmarking Azerbaijani speech-recognition (ASR) models on a labelled call-centre dataset
 - 🤖 Previously automated banking operations as an **RPA Developer Intern at Kapital Bank**
-- 🌱 Currently exploring **LLM agents, RAG, fine-tuning (QLoRA)** and **MLOps**
 - 🌍 Spent an exchange semester at the **University of Pécs, Hungary**
 - 💬 I speak Azerbaijani, English and Turkish
 
