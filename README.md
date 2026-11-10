@@ -78,7 +78,9 @@ I'm a fourth-year Computer Science student at **ADA University** (graduating May
 - 🥇 Winner — ADA Employability Week 2025
 - 🏁 Finalist — PASHA Hackathon 5.0
 - 📜 Stanford / DeepLearning.AI — *Supervised Machine Learning* & *Advanced Learning Algorithms*
-- 📜 McKinsey Forward Program · Cisco Networking Academy · Huawei ICT Academy (5G)
+- 📜 McKinsey Forward Program
+- 📜 Cisco Networking Academy
+- 📜 Huawei ICT Academy (5G)
 
 ## 🤝 Leadership
 
